@@ -4,7 +4,7 @@ This project is built to automate common actions and make interactions with your
 
 Features
 
-Voice/text-based interaction (if implemented)
+Voice/text-based interaction 
 
 Execute basic system commands
 
